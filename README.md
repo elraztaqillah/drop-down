@@ -22,7 +22,7 @@ You need to use the correct type just as putting a String into an int. Here you 
 Sometimes you can use non nullables everywhere, perform manual checking, etc. You can read more about it here.
 
 Regarding your issue, I'd say you have to modify you anonymous function codeSent:
-Example: 
+<p>Example: </p>
 (String verificationID, int? resendToken) => ...
 
 https://stackoverflow.com/questions/68393585/how-to-fix-error-the-argument-type-void-functionstring-int-cant-be-assign
