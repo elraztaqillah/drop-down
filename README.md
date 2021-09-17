@@ -10,13 +10,13 @@ please feedback and click star(top right corner) to support me. Thank you :)
 <h2><b>How to fix the problem</b></h2>
 
 ![fixs](https://user-images.githubusercontent.com/76187141/133720384-b5762f0e-0959-4caf-bdd6-6fbe21fa4165.JPG)
+
+<h2><b>Solution</b></h2>
+
+>![image](https://user-images.githubusercontent.com/76187141/133724622-0f1114d8-276c-439f-b757-1254f721157e.png)
+
 >HTML 5
 ><p>Bootstrap 4 https://getbootstrap.com/docs/4.1/getting-started/introduction/</p>
 
 <h2><b>Example, add navbar bootstrap</b></h2>
-
-
-         
-<h2><b>Demo</b></h2>
-
 
