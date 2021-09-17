@@ -13,10 +13,11 @@ please feedback and click star(top right corner) to support me. Thank you :)
 
 <h2><b>Solution</b></h2>
 
+![image](https://user-images.githubusercontent.com/76187141/133724857-00a14153-ab76-48b6-a61e-010c84ec16c0.png)
+
 >![image](https://user-images.githubusercontent.com/76187141/133724622-0f1114d8-276c-439f-b757-1254f721157e.png)
 
 >HTML 5
 ><p>Bootstrap 4 https://getbootstrap.com/docs/4.1/getting-started/introduction/</p>
 
-<h2><b>Example, add navbar bootstrap</b></h2>
 
