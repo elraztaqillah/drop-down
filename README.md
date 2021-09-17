@@ -2,7 +2,7 @@
 
 Hi everyone! this fix the problem drop-down in main.dart
 >" lib/main.dart:38:30: Error: The argument type 'void Function(int)' can't be assigned to the parameter type   
-'void Function(int?)?' because 'int?' is nullable and 'int' isn't. / lib/main.dart:40:32: Error: A value of type 'int?' can't be assigned to a variable of type 'int' because
+'void Function(int?)?' because 'int?' is nullable and 'int' isn't. <p>OR</p> lib/main.dart:40:32: Error: A value of type 'int?' can't be assigned to a variable of type 'int' because
 'int?' is nullable and 'int' isn't. "
 
 please feedback and click star(top right corner) to support me. Thank you :)
